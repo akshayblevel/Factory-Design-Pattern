@@ -1,0 +1,7 @@
+C:\Users\Akshay\Desktop\Webinar-akki\FactoryPattern\PLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Akshay\Desktop\Webinar-akki\FactoryPattern\PLibrary\bin\Debug\PLibrary.dll
+C:\Users\Akshay\Desktop\Webinar-akki\FactoryPattern\PLibrary\bin\Debug\PLibrary.pdb
+C:\Users\Akshay\Desktop\Webinar-akki\FactoryPattern\PLibrary\obj\Debug\PLibrary.dll
+C:\Users\Akshay\Desktop\Webinar-akki\FactoryPattern\PLibrary\obj\Debug\PLibrary.pdb
+C:\Users\Akshay\Desktop\Webinar-akki\FactoryPattern\PLibrary\bin\Debug\ProductBase.dll
+C:\Users\Akshay\Desktop\Webinar-akki\FactoryPattern\PLibrary\bin\Debug\ProductBase.pdb
